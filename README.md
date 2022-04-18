@@ -32,10 +32,11 @@ There isnt much to talk about here:
 ### 1st thing FUNCTTIONS
 I created two functions.  I will continue to iterate on these functions but I want a function that will take data from either an api or a csv (maybe even a database and parse filter and clean it according to the data type. Right now we are working with  stock prices and a datetime index. As we work with other data types Ill build and add to this. The second function  takes as an argument a dataframe and returns information about it. I tend to use this while I am developing so I know at all times what I am working with.
 
-First Function
+### First Function
 <img width="1079" alt="Screen Shot 2022-04-17 at 10 46 52 PM" src="https://user-images.githubusercontent.com/101449950/163746479-1ce30563-8cdb-461e-ae85-65d133417182.png">
 
-Second Function
+
+### Second Function
 <img width="687" alt="Screen Shot 2022-04-17 at 10 52 36 PM" src="https://user-images.githubusercontent.com/101449950/163746961-eceef013-e60d-47bf-b7b3-e49f7577e247.png">
 
 ### Future Directions: 
