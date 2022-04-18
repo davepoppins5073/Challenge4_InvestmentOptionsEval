@@ -1,13 +1,14 @@
-# Challenge4_InvestmentOptionsEval
-Evaluate four new investment options for client portfolio inclusion
+# Investment Options Evaluation
+For this assigned we need to evaluate four new investment options for inclusion in the a client's portfolio. We’ll need to determine the fund(s) of the four listed in the data csv in the Resources Folder. We are utilizing key risk-management metrics: 
+> 1. Daily rReturns 
+> 2. Standard deviations
+> 3. Sharpe ratios
+> 4. Variance
+> 5. CoVariance
+> 6. Betas
+> 
+---
 
-# Bitcoin Arbitrage Opportunities
-The goal of this challenge is to create a Jupyter Notebook that will do the following:
-
-> 1. Pull in historical data trade data from Coinbase and Bitstamp (csv files)
-> 2. Use the python library to save data into two distinct dataframes
-> 3. Clean and Massage the data i.e prep it for subsequent analysis
-> 4. Analyze the data in order to ultimately select time periods where there existed arbitrage opportunities.
 
 ## Installation
 
@@ -17,6 +18,8 @@ if you do not have them already:
 * pandas
 * numpy
 * pathlib
+* os
+* matplotlib (pyplot)
 
 While you could use the package manager [pip](https://pip.pypa.io/en/stable/) to install these individually please make use of the requirement text in the repo.
 
